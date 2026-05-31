@@ -1,4 +1,4 @@
-# Script-corre-o-problema-VMNET-VMWARE-para-linux
+# Script-para-o-problema-VMNET-VMWARE-para-linux
 Script para corrigir problema de inicialização do VMWare no Linux com erro de inicialização devido o erro de VMNET e VMMON
 
 crie o arquivo abaixo adicione o script fix-vmware.sh
